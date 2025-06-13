@@ -1,5 +1,5 @@
 # Shark-Attacks-Analysis
-This project explores global shark attack data from 1900 to the present using **Power BI**. The dashboard provides key insights into where, when, and how shark attacks occur, identifying high-risk areas, vulnerable body parts, and the species most commonly involved. 
+This project explores global shark attack data from 1900 to the present using Power BI. The dashboard provides key insights into where, when, and how shark attacks occur, identifying high-risk areas, vulnerable body parts, and the species most commonly involved. 
 
 # Project Overview
 This project is about analyzing shark attacks that happened around the world from 1900 to recent years. The goal is to understand where, when, and how these attacks happen the most.
